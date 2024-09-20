@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "iterator": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp"
+    }
+}
