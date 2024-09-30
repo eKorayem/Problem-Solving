@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    string str = "hello";
-    for(char &c:str) c = toupper(c);
-    cout << str;
+    char c = 'z';
+    c = c-'a';
+    cout << int(c);
 }
